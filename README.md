@@ -1,7 +1,5 @@
-- I’m @ssoehdata
-- I’m interested in DataScience/DataAnalysis/ML/HPC
-- I’m currently learning ...
-
+- I’m ssoehdata
+- Interested in DataScience/DataAnalysis/ML/HPC
 - 📫 How to reach me
 
 <!---
