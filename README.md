@@ -1,4 +1,4 @@
-- I’m ssoehdata
+- This is the ssoehdata site
 - Interested in DataScience/DataAnalysis/ML/HPC
 - 📫 How to reach me
 
