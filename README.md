@@ -1,6 +1,6 @@
 - This is the ssoehdata site
 - Interested in DataScience/DataAnalysis/ML/HPC
-- 📫 How to reach me
+- 📫 email: ssoehnlen@protonmail.com
 
 <!---
 ssoehdata/ssoehdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
