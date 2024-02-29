@@ -1,5 +1,7 @@
 - This is the ssoehdata site
 - Interested in DataScience/DataAnalysis/ML/HPC
+- Cobol,Fortran,Python,SQL, HTML,CSS,JS
+- -Learning C,C++,Java
 - 📫 email: ssoehnlen@protonmail.com
 
 <!---
