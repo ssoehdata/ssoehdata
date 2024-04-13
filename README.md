@@ -1,4 +1,4 @@
-- Interested in DataScience/DataAnalysis/ML/HPC
+- Interested in DataScience/DataAnalysis/ML/DL/HPC
 - Cobol/Fortran/Python/SQL/HTML/CSS/JS
 - Learning x86 ASM/C/C++/Java
 - email: ssoehnlen@protonmail.com
