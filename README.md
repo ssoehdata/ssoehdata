@@ -1,7 +1,7 @@
 - Interested in DataScience/DataAnalysis/ML/DL/HPC
 - Cobol/Fortran/Python/SQL/HTML/CSS/JS
 - Learning x86 ASM/C/C++/Java
-- email: ssoehnlen@protonmail.com
+- ssoehnlen@protonmail.com
 
 <!---
 ssoehdata/ssoehdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
