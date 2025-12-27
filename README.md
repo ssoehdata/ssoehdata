@@ -1,4 +1,6 @@
-- Interested in DataScience & Analysis/ML/DL/HPC/LowLevel
+- Interested in DataScience & Analysis/Machine and Deep Learning
+- High Performance Computing/LowLevel Programming
+  
 - C/Cobol/Fortran/Python/SQL
 - (web: [HTML/CSS/JS/PHP])
 - Learning x86 ASM/Verilog
