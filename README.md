@@ -1,7 +1,7 @@
-- Interested in DataScience/DataAnalysis/ML/DL/HPC
+- Interested in DataScience/DataAnalysis/ML/DL/HPC/LowLevel
 - Cobol/Fortran/Python/SQL
 - [web: (HTML/CSS/JS/PHP)]
-- Learning x86 ASM/C/C++
+- Learning x86 ASM/C/C++/Verilog
 - ssoehnlen@protonmail.com
 
 <!---
